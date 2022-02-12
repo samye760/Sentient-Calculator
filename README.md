@@ -1,2 +1,3 @@
 # Sentient-Calculator
-A calculator that talks back
+
+Try some calculations and see what the calculator has to say about it
